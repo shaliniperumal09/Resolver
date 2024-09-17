@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-16T21:19:24 PDT" name="Default suite" finished-at="2024-09-16T21:19:40 PDT" duration-ms="15476">
+    <groups>
+    </groups>
+    <test started-at="2024-09-16T21:19:24 PDT" name="Default test" finished-at="2024-09-16T21:19:40 PDT" duration-ms="15476">
+      <class name="testLayer.TestClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:24 PDT" name="setUp" finished-at="2024-09-16T21:19:26 PDT" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:26 PDT" name="test1" finished-at="2024-09-16T21:19:26 PDT" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:26 PDT" name="tearDown" finished-at="2024-09-16T21:19:27 PDT" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:27 PDT" name="setUp" finished-at="2024-09-16T21:19:29 PDT" duration-ms="1703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:29 PDT" name="test2" finished-at="2024-09-16T21:19:29 PDT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:29 PDT" name="tearDown" finished-at="2024-09-16T21:19:29 PDT" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:29 PDT" name="setUp" finished-at="2024-09-16T21:19:31 PDT" duration-ms="1703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test3()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:31 PDT" name="test3" finished-at="2024-09-16T21:19:31 PDT" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:31 PDT" name="tearDown" finished-at="2024-09-16T21:19:32 PDT" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:32 PDT" name="setUp" finished-at="2024-09-16T21:19:33 PDT" duration-ms="1647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test4()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:33 PDT" name="test4" finished-at="2024-09-16T21:19:33 PDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:33 PDT" name="tearDown" finished-at="2024-09-16T21:19:34 PDT" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:34 PDT" name="setUp" finished-at="2024-09-16T21:19:35 PDT" duration-ms="1648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test5()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:35 PDT" name="test5" finished-at="2024-09-16T21:19:37 PDT" duration-ms="1839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:37 PDT" name="tearDown" finished-at="2024-09-16T21:19:37 PDT" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:37 PDT" name="setUp" finished-at="2024-09-16T21:19:39 PDT" duration-ms="1650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test6()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:39 PDT" name="test6" finished-at="2024-09-16T21:19:39 PDT" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testLayer.TestClass@4f18837a]" started-at="2024-09-16T21:19:39 PDT" name="tearDown" finished-at="2024-09-16T21:19:40 PDT" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testLayer.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
